@@ -1,4 +1,4 @@
-package hello.advanced.aop;
+package hello.advanced.aop.v0;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
